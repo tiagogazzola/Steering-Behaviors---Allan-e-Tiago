@@ -1,5 +1,3 @@
-Dentro do projeto Unity, possui duas pastas:
-
 OBSTACLES AVOIDANCE
 - Pasta: Obstacles Avoidance, contendo a Scene e o script da IA, para testar basta entrar na scene, e dar play.
 - Instruções: Na hierarquia ira começar com 'Course 1' ligado, mas é possivel desligalo e ligar o 'Course 2' ou 'Course 3' para testar. (Testar apenas com um course ligado de cada vez)
